@@ -1,0 +1,15 @@
+/Users/rudikovaevgenia/Desktop/IT/C#/Task2/bin/Debug/net9.0/Task2
+/Users/rudikovaevgenia/Desktop/IT/C#/Task2/bin/Debug/net9.0/Task2.deps.json
+/Users/rudikovaevgenia/Desktop/IT/C#/Task2/bin/Debug/net9.0/Task2.runtimeconfig.json
+/Users/rudikovaevgenia/Desktop/IT/C#/Task2/bin/Debug/net9.0/Task2.dll
+/Users/rudikovaevgenia/Desktop/IT/C#/Task2/bin/Debug/net9.0/Task2.pdb
+/Users/rudikovaevgenia/Desktop/IT/C#/Task2/obj/Debug/net9.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rudikovaevgenia/Desktop/IT/C#/Task2/obj/Debug/net9.0/Task2.AssemblyInfoInputs.cache
+/Users/rudikovaevgenia/Desktop/IT/C#/Task2/obj/Debug/net9.0/Task2.AssemblyInfo.cs
+/Users/rudikovaevgenia/Desktop/IT/C#/Task2/obj/Debug/net9.0/Task2.csproj.CoreCompileInputs.cache
+/Users/rudikovaevgenia/Desktop/IT/C#/Task2/obj/Debug/net9.0/Task2.sourcelink.json
+/Users/rudikovaevgenia/Desktop/IT/C#/Task2/obj/Debug/net9.0/Task2.dll
+/Users/rudikovaevgenia/Desktop/IT/C#/Task2/obj/Debug/net9.0/refint/Task2.dll
+/Users/rudikovaevgenia/Desktop/IT/C#/Task2/obj/Debug/net9.0/Task2.pdb
+/Users/rudikovaevgenia/Desktop/IT/C#/Task2/obj/Debug/net9.0/Task2.genruntimeconfig.cache
+/Users/rudikovaevgenia/Desktop/IT/C#/Task2/obj/Debug/net9.0/ref/Task2.dll
