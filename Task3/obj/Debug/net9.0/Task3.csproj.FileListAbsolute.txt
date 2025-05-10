@@ -1,0 +1,15 @@
+/Users/rudikovaevgenia/Desktop/IT/C#/Task3/obj/Debug/net9.0/Task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rudikovaevgenia/Desktop/IT/C#/Task3/obj/Debug/net9.0/Task3.AssemblyInfoInputs.cache
+/Users/rudikovaevgenia/Desktop/IT/C#/Task3/obj/Debug/net9.0/Task3.AssemblyInfo.cs
+/Users/rudikovaevgenia/Desktop/IT/C#/Task3/obj/Debug/net9.0/Task3.csproj.CoreCompileInputs.cache
+/Users/rudikovaevgenia/Desktop/IT/C#/Task3/obj/Debug/net9.0/Task3.sourcelink.json
+/Users/rudikovaevgenia/Desktop/IT/C#/Task3/bin/Debug/net9.0/Task3
+/Users/rudikovaevgenia/Desktop/IT/C#/Task3/bin/Debug/net9.0/Task3.deps.json
+/Users/rudikovaevgenia/Desktop/IT/C#/Task3/bin/Debug/net9.0/Task3.runtimeconfig.json
+/Users/rudikovaevgenia/Desktop/IT/C#/Task3/bin/Debug/net9.0/Task3.dll
+/Users/rudikovaevgenia/Desktop/IT/C#/Task3/bin/Debug/net9.0/Task3.pdb
+/Users/rudikovaevgenia/Desktop/IT/C#/Task3/obj/Debug/net9.0/Task3.dll
+/Users/rudikovaevgenia/Desktop/IT/C#/Task3/obj/Debug/net9.0/refint/Task3.dll
+/Users/rudikovaevgenia/Desktop/IT/C#/Task3/obj/Debug/net9.0/Task3.pdb
+/Users/rudikovaevgenia/Desktop/IT/C#/Task3/obj/Debug/net9.0/Task3.genruntimeconfig.cache
+/Users/rudikovaevgenia/Desktop/IT/C#/Task3/obj/Debug/net9.0/ref/Task3.dll
