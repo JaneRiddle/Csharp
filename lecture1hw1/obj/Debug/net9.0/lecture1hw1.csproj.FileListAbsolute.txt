@@ -1,0 +1,15 @@
+/Users/rudikovaevgenia/Desktop/IT/C#/lecture1hw1/obj/Debug/net9.0/lecture1hw1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rudikovaevgenia/Desktop/IT/C#/lecture1hw1/obj/Debug/net9.0/lecture1hw1.AssemblyInfoInputs.cache
+/Users/rudikovaevgenia/Desktop/IT/C#/lecture1hw1/obj/Debug/net9.0/lecture1hw1.AssemblyInfo.cs
+/Users/rudikovaevgenia/Desktop/IT/C#/lecture1hw1/obj/Debug/net9.0/lecture1hw1.csproj.CoreCompileInputs.cache
+/Users/rudikovaevgenia/Desktop/IT/C#/lecture1hw1/obj/Debug/net9.0/lecture1hw1.sourcelink.json
+/Users/rudikovaevgenia/Desktop/IT/C#/lecture1hw1/bin/Debug/net9.0/lecture1hw1
+/Users/rudikovaevgenia/Desktop/IT/C#/lecture1hw1/bin/Debug/net9.0/lecture1hw1.deps.json
+/Users/rudikovaevgenia/Desktop/IT/C#/lecture1hw1/bin/Debug/net9.0/lecture1hw1.runtimeconfig.json
+/Users/rudikovaevgenia/Desktop/IT/C#/lecture1hw1/bin/Debug/net9.0/lecture1hw1.dll
+/Users/rudikovaevgenia/Desktop/IT/C#/lecture1hw1/bin/Debug/net9.0/lecture1hw1.pdb
+/Users/rudikovaevgenia/Desktop/IT/C#/lecture1hw1/obj/Debug/net9.0/lecture1hw1.dll
+/Users/rudikovaevgenia/Desktop/IT/C#/lecture1hw1/obj/Debug/net9.0/refint/lecture1hw1.dll
+/Users/rudikovaevgenia/Desktop/IT/C#/lecture1hw1/obj/Debug/net9.0/lecture1hw1.pdb
+/Users/rudikovaevgenia/Desktop/IT/C#/lecture1hw1/obj/Debug/net9.0/lecture1hw1.genruntimeconfig.cache
+/Users/rudikovaevgenia/Desktop/IT/C#/lecture1hw1/obj/Debug/net9.0/ref/lecture1hw1.dll
